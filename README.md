@@ -25,6 +25,7 @@ Currently under development, as of 3 Jan 2024.
 ### Customisation ###
 - [ ] Logo
 - [ ] Header image
+- [ ] Colour palete
 - [ ] Navigation (rename/label links/pages)
 - [ ] Pages - templates (info - rich text, flow - feed view, folio - category view)
 - [ ] Custom site-wide CSS
