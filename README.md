@@ -35,7 +35,7 @@ Currently under development, as of 3 Jan 2024.
 
 
 
-## License
+## License ##
 
 Styx Flow is free software licensed under the [GPL3.0 License](https://opensource.org/license/gpl-3-0/). You are free to self-host this software or modify it as you see fit, as long as the source code is available. If you'd like to support Wizard in a Can, we will be offering specialty hosting for Styx Flow sites once v1.0.0 is released.
 
